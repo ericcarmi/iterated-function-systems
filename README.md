@@ -41,8 +41,6 @@ plt.scatter(z[:,0],z[:,1],s=0.5)
 
 
 
-    <matplotlib.collections.PathCollection at 0x11d998d00>
-
 
 
 
@@ -62,8 +60,6 @@ plt.scatter(z[:,0],z[:,1],s=0.5)
 
 
 
-    <matplotlib.collections.PathCollection at 0x11dc10d90>
-
 
 
 
@@ -82,8 +78,6 @@ plt.scatter(z[:,0],z[:,1],s=0.5)
 
 
 
-
-    <matplotlib.collections.PathCollection at 0x11dc73c70>
 
 
 
@@ -120,8 +114,6 @@ plt.scatter(z[:,0],z[:,1],s=0.5)
 
 
 
-    <matplotlib.collections.PathCollection at 0x11dcde6d0>
-
 
 
 
@@ -147,8 +139,6 @@ plt.scatter(z[:,0],z[:,1],s=0.5)
 
 
 
-
-    <matplotlib.collections.PathCollection at 0x11dd41820>
 
 
 
@@ -181,5 +171,3 @@ from itstest import *
     
 
 
-
-```python
