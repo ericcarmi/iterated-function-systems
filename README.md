@@ -168,6 +168,5 @@ from itstest import *
     ITS is faster by a factor of  3.2921103471892783
     
     
-    
 
 
