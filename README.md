@@ -27,7 +27,7 @@ plt.scatter(z[:,0],z[:,1],s=1)
 
 
     
-![png](output_1_1.png)
+![png](dragon1.png)
     
 
 
@@ -49,7 +49,7 @@ plt.scatter(z[:,0],z[:,1],s=0.5)
 
 
     
-![png](output_2_1.png)
+![png](dragon2.png)
     
 
 
@@ -70,7 +70,7 @@ plt.scatter(z[:,0],z[:,1],s=0.5)
 
 
     
-![png](output_3_1.png)
+![png](sierpinski.png)
     
 
 
@@ -91,7 +91,7 @@ plt.scatter(z[:,0],z[:,1],s=0.5)
 
 
     
-![png](output_4_1.png)
+![png](fern.png)
     
 
 
@@ -128,7 +128,7 @@ plt.scatter(z[:,0],z[:,1],s=0.5)
 
 
     
-![png](output_6_1.png)
+![png](fernrotate.png)
     
 
 
@@ -156,7 +156,7 @@ plt.scatter(z[:,0],z[:,1],s=0.5)
 
 
     
-![png](output_7_1.png)
+![png](cesaro.png)
     
 
 
