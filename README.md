@@ -21,8 +21,6 @@ plt.scatter(z[:,0],z[:,1],s=1)
 
 
 
-    <matplotlib.collections.PathCollection at 0x11d77ea60>
-
 
 
 
@@ -185,5 +183,3 @@ from itstest import *
 
 
 ```python
-
-```
